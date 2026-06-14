@@ -43,6 +43,7 @@ The objective of this lab was to gain hands-on experience with common IT support
 
 Documentation:
 - [Ticket #001](tickets/Ticket-001-Account-Lockout.md)
+- [View Screenshots](screenshots/ticket-001/)
 
 ---
 
@@ -55,6 +56,7 @@ Documentation:
 
 Documentation:
 - [Ticket #002](tickets/Ticket-002-Outlook-Not-Receiving-Emails.md)
+- [View Screenshots](screenshots/ticket-002/)
 
 ---
 
@@ -67,6 +69,7 @@ Documentation:
 
 Documentation:
 - [Ticket #003](tickets/Ticket-003-VPN-Connection-Failure.md)
+- [View Screenshots](screenshots/ticket-003/)
 
 ---
 
@@ -79,6 +82,7 @@ Documentation:
 
 Documentation:
 - [Ticket #004](tickets/Ticket-004-Printer-Offline.md)
+- [View Screenshots](screenshots/ticket-004/)
 
 ---
 
@@ -91,6 +95,7 @@ Documentation:
 
 Documentation:
 - [Ticket #005](tickets/Ticket-005-Slow-Computer.md)
+- [View Screenshots](screenshots/ticket-005/)
 
 ---
 
