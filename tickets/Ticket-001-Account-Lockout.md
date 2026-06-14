@@ -17,8 +17,3 @@ User reported being unable to access their account due to multiple failed login 
 ## Outcome
 User successfully regained access
 
-## Skills Demonstrated
-- Active Directory / Account Management
-- Incident Handling
-- Troubleshooting
-- User Support
